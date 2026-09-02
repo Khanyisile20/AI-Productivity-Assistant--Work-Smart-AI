@@ -29,7 +29,7 @@ Compliance: 100% - All 5 features built into ONE integrated dashboard with sideb
 - Prompt Engineering - Structured prompts with role, context, constraints
 
 ### Live Demo
-Live Link: [PASTE YOUR LOVABLE PUBLISHED LINK HERE]
+Live Link: https://clever-work-suite.lovable.app
 
 ### Setup Instructions
 1. Clone this repository
