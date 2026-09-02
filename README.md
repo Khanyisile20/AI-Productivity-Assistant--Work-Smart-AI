@@ -1,5 +1,5 @@
 # AI-Productivity-Assistant - WorkSmart AI
-By: Khanyisile Gubuza | CAPACITI ASA Online 17
+By: Khanyisile Gubuza 
 
 ### Project Overview
 WorkSmart AI is an AI-powered workplace productivity assistant designed to help professionals automate repetitive tasks like drafting emails, summarizing meetings, and planning daily tasks. The goal is to save time and improve efficiency.
